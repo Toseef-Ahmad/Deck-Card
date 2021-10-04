@@ -1,0 +1,8 @@
+.Card {
+  position: absolute;
+  top: 300px;
+  align-items: center;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
